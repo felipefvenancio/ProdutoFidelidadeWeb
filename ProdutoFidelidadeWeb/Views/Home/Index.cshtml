@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div class="row">
+    <div class="col-md-6">
+        <h2>Consulte o seu saldo</h2>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <form method="post">
+            <label for="Number">Número do cartão:</label>
+            <input type="text" id="Number" name="Number" value="" style="height: 50px; width:500px">
+            <button asp-controller="Home" asp-action="Index" style="height:50px">Enviar</button>
+        </form>
+    </div>
+</div>
+
+
+
+<br />
+<br />
+@if (ViewBag.Searched == true)
+{
+    <div class="row">
+        <div class="col-md-12">
+            @if (!String.IsNullOrWhiteSpace(ViewBag.Result["mensagemErro"] as string))
+            {
+                <h3>Seu saldo é:</h3>
+                <h4><img src="~/images/money.png" style="height:70px" /> R$ @ViewBag.Result["saldoEmReais"] </h4>
+                <h4><img src="~/images/point.png" style="height:70px" /> @ViewBag.Result["saldoEmPontos"] pontos</h4>
+            }
+            else
+            {
+                <h4 style="color:red">Não foi possível obter o seu saldo. Verifique o número digitado e tente novamente</h4>
+
+            }
+        </div>
+    </div>
+}

@@ -1,0 +1,11 @@
+C:\Users\FELIPE\source\repos\ProdutoFidelidadeWeb\ProdutoFidelidadeWeb\bin\Debug\netcoreapp2.0\ProdutoFidelidadeWeb.deps.json
+C:\Users\FELIPE\source\repos\ProdutoFidelidadeWeb\ProdutoFidelidadeWeb\bin\Debug\netcoreapp2.0\ProdutoFidelidadeWeb.runtimeconfig.json
+C:\Users\FELIPE\source\repos\ProdutoFidelidadeWeb\ProdutoFidelidadeWeb\bin\Debug\netcoreapp2.0\ProdutoFidelidadeWeb.runtimeconfig.dev.json
+C:\Users\FELIPE\source\repos\ProdutoFidelidadeWeb\ProdutoFidelidadeWeb\bin\Debug\netcoreapp2.0\ProdutoFidelidadeWeb.dll
+C:\Users\FELIPE\source\repos\ProdutoFidelidadeWeb\ProdutoFidelidadeWeb\bin\Debug\netcoreapp2.0\ProdutoFidelidadeWeb.pdb
+C:\Users\FELIPE\source\repos\ProdutoFidelidadeWeb\ProdutoFidelidadeWeb\obj\Debug\netcoreapp2.0\ProdutoFidelidadeWeb.csprojAssemblyReference.cache
+C:\Users\FELIPE\source\repos\ProdutoFidelidadeWeb\ProdutoFidelidadeWeb\obj\Debug\netcoreapp2.0\ProdutoFidelidadeWeb.csproj.CoreCompileInputs.cache
+C:\Users\FELIPE\source\repos\ProdutoFidelidadeWeb\ProdutoFidelidadeWeb\obj\Debug\netcoreapp2.0\ProdutoFidelidadeWeb.AssemblyInfoInputs.cache
+C:\Users\FELIPE\source\repos\ProdutoFidelidadeWeb\ProdutoFidelidadeWeb\obj\Debug\netcoreapp2.0\ProdutoFidelidadeWeb.AssemblyInfo.cs
+C:\Users\FELIPE\source\repos\ProdutoFidelidadeWeb\ProdutoFidelidadeWeb\obj\Debug\netcoreapp2.0\ProdutoFidelidadeWeb.dll
+C:\Users\FELIPE\source\repos\ProdutoFidelidadeWeb\ProdutoFidelidadeWeb\obj\Debug\netcoreapp2.0\ProdutoFidelidadeWeb.pdb
